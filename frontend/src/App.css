@@ -1,0 +1,54 @@
+
+
+.myinput{
+   width: 600px !important;
+}
+
+.footer{
+  min-height: 50px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightgray;
+ 
+}
+
+.home{
+  min-height: 460px;
+}
+
+.card{
+  min-width: 230px;
+  max-height: 320px;
+  margin: 10px;
+  padding: 6px;
+}
+
+.link{
+ text-decoration: none;
+ margin-top: 100px !important;
+}
+
+.nav-item{
+  margin-left: 20px !important;
+}
+
+.image{
+  width: 90%;
+}
+
+.greenColor{
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+}
+.redColor{
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.imgpreview{
+  width: 200px;
+  height: 200px;
+}
